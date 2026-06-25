@@ -1,0 +1,809 @@
+date_time,category,account,amount,currency,tags
+2025-11-30,Health,acct_1,114.0,BYN,tag_1
+2025-11-30,Food,acct_1,5.0,BYN,tag_1
+2025-11-27,Public transport,acct_2,1.0,BYN,tag_1
+2025-11-27,Cafe,acct_1,10.0,BYN,tag_1
+2025-11-26,Cafe,acct_3,2.0,BYN,tag_1
+2025-11-26,Public transport,acct_2,1.0,BYN,tag_1
+2025-11-25,Public transport,acct_2,1.0,BYN,tag_1
+2025-11-25,Public transport,acct_2,1.0,BYN,tag_1
+2025-11-25,Cafe,acct_1,11.0,BYN,tag_1
+2025-11-25,Taxi,acct_1,4.0,BYN,tag_1
+2025-11-24,Food,acct_1,9.0,BYN,tag_1
+2025-11-24,Public transport,acct_2,1.0,BYN,tag_1
+2025-11-24,Public transport,acct_2,1.0,BYN,tag_1
+2025-11-24,Cafe,acct_3,4.0,BYN,tag_1
+2025-11-22,Food,acct_1,11.0,BYN,tag_1
+2025-11-21,Public transport,acct_2,2.0,BYN,tag_1
+2025-11-21,Public transport,acct_2,1.0,BYN,tag_1
+2025-11-20,Public transport,acct_2,1.0,BYN,tag_1
+2025-11-20,Public transport,acct_2,2.0,BYN,tag_1
+2025-11-20,Cafe,acct_1,9.0,BYN,tag_1
+2025-11-20,Cafe,acct_3,8.0,BYN,tag_1
+2025-11-19,Public transport,acct_2,1.0,BYN,tag_1
+2025-11-18,Gifts,acct_1,79.0,BYN,tag_1
+2025-11-18,Public transport,acct_2,4.0,BYN,tag_1
+2025-11-18,Cafe,acct_3,2.0,BYN,tag_1
+2025-11-18,Cafe,acct_1,5.0,BYN,tag_1
+2025-11-18,Taxi,acct_1,9.0,BYN,tag_1
+2025-11-18,Public transport,acct_2,1.0,BYN,tag_1
+2025-11-18,Cafe,acct_3,3.0,BYN,tag_1
+2025-11-17,Public transport,acct_2,1.0,BYN,tag_1
+2025-11-17,Public transport,acct_3,3.0,BYN,tag_1
+2025-11-17,Cafe,acct_3,2.0,BYN,tag_1
+2025-11-16,Public transport,acct_2,2.0,BYN,tag_1
+2025-11-15,Food,acct_3,3.0,BYN,tag_1
+2025-11-15,Public transport,acct_2,1.0,BYN,tag_1
+2025-11-15,Food,acct_3,4.0,BYN,tag_1
+2025-11-15,Cafe,acct_3,3.0,BYN,tag_1
+2025-11-13,Public transport,acct_2,1.0,BYN,tag_1
+2025-11-13,Loan given,acct_1,23.0,BYN,tag_1
+2025-11-13,Cafe,acct_1,4.0,BYN,tag_1
+2025-11-13,Public transport,acct_2,2.0,BYN,tag_1
+2025-11-13,Health,acct_1,36.0,BYN,tag_1
+2025-11-12,Cafe,acct_1,10.0,BYN,tag_1
+2025-11-12,Public transport,acct_2,1.0,BYN,tag_1
+2025-11-11,Public transport,acct_2,1.0,BYN,tag_1
+2025-11-11,Cafe,acct_1,5.0,BYN,tag_1
+2025-11-10,Public transport,acct_2,4.0,BYN,tag_1
+2025-11-10,Public transport,acct_2,1.0,BYN,tag_1
+2025-11-10,Cafe,acct_1,6.0,BYN,tag_1
+2025-11-07,Cafe,acct_1,11.0,BYN,tag_1
+2025-11-07,Leisure,acct_1,35.0,BYN,tag_1
+2025-11-06,Cafe,acct_1,31.0,BYN,tag_1
+2025-11-05,Clothes,acct_1,299.0,BYN,tag_1
+2025-11-05,Cafe,acct_3,3.0,BYN,tag_1
+2025-11-05,Cafe,acct_1,12.0,BYN,tag_1
+2025-11-05,Public transport,acct_2,1.0,BYN,tag_1
+2025-11-04,Cafe,acct_3,2.0,BYN,tag_1
+2025-11-04,Public transport,acct_2,1.0,BYN,tag_1
+2025-11-04,Public transport,acct_2,4.0,BYN,tag_1
+2025-11-04,Food,acct_3,2.0,BYN,tag_1
+2025-11-03,Leisure,acct_3,38.0,BYN,tag_1
+2025-11-03,Public transport,acct_3,2.0,BYN,tag_1
+2025-11-03,Public transport,acct_2,1.0,BYN,tag_1
+2025-11-03,Cafe,acct_1,11.0,BYN,tag_1
+2025-11-03,Cafe,acct_3,3.0,BYN,tag_1
+2025-11-01,Public transport,acct_2,1.0,BYN,tag_1
+2025-11-01,Public transport,acct_3,2.0,BYN,tag_1
+2025-10-31,Public transport,acct_2,1.0,BYN,tag_1
+2025-10-31,Gifts,acct_3,30.0,BYN,tag_1
+2025-10-30,Health,acct_3,1.0,BYN,tag_1
+2025-10-30,Public transport,acct_2,1.0,BYN,tag_1
+2025-10-29,Public transport,acct_2,2.0,BYN,tag_1
+2025-10-29,Leisure,acct_1,20.0,BYN,tag_1
+2025-10-29,Leisure,acct_1,17.0,BYN,tag_1
+2025-10-29,Public transport,acct_3,1.0,BYN,tag_1
+2025-10-29,Food,acct_1,22.0,BYN,tag_1
+2025-10-29,Cafe,acct_3,1.0,BYN,tag_1
+2025-10-29,Cafe,acct_1,5.0,BYN,tag_1
+2025-10-28,Public transport,acct_3,1.0,BYN,tag_1
+2025-10-28,Food,acct_3,4.0,BYN,tag_1
+2025-10-28,Public transport,acct_2,2.0,BYN,tag_1
+2025-10-28,Bought for myself,acct_1,4.0,BYN,tag_1
+2025-10-28,Cafe,acct_1,5.0,BYN,tag_1
+2025-10-28,Public transport,acct_2,1.0,BYN,tag_1
+2025-10-28,Food,acct_3,2.0,BYN,tag_1
+2025-10-26,Public transport,acct_1,5.0,BYN,tag_1
+2025-10-26,Health,acct_1,128.0,BYN,tag_1
+2025-10-26,Gifts,acct_1,44.0,BYN,tag_1
+2025-10-26,Food,acct_1,6.0,BYN,tag_1
+2025-10-25,Public transport,acct_1,4.0,BYN,tag_1
+2025-10-25,Cafe,acct_1,11.0,BYN,tag_1
+2025-10-25,Public transport,acct_1,5.0,BYN,tag_1
+2025-10-24,Public transport,acct_2,1.0,BYN,tag_1
+2025-10-24,Taxi,acct_1,10.0,BYN,tag_1
+2025-10-23,Cafe,acct_1,17.0,BYN,tag_1
+2025-10-21,Public transport,acct_2,1.0,BYN,tag_1
+2025-10-21,Public transport,acct_2,2.0,BYN,tag_1
+2025-10-21,Cafe,acct_1,9.0,BYN,tag_1
+2025-10-21,Cafe,acct_1,6.0,BYN,tag_1
+2025-10-20,Public transport,acct_2,2.0,BYN,tag_1
+2025-10-20,Public transport,acct_2,1.0,BYN,tag_1
+2025-10-20,Cafe,acct_1,4.0,BYN,tag_1
+2025-10-20,Gifts,acct_1,43.0,BYN,tag_1
+2025-10-19,Food,acct_1,18.0,BYN,tag_1
+2025-10-19,Gifts,acct_3,15.0,BYN,tag_1
+2025-10-18,Public transport,acct_2,1.0,BYN,tag_1
+2025-10-18,Food,acct_1,4.0,BYN,tag_1
+2025-10-18,Leisure,acct_3,29.0,BYN,tag_1
+2025-10-17,Health,acct_1,70.0,BYN,tag_1
+2025-10-16,Public transport,acct_2,1.0,BYN,tag_1
+2025-10-16,Public transport,acct_2,1.0,BYN,tag_1
+2025-10-16,Cafe,acct_1,5.0,BYN,tag_1
+2025-10-15,Loan given,acct_1,854.0,BYN,tag_1
+2025-10-15,Other,acct_1,11.0,BYN,tag_1
+2025-10-15,Food,acct_3,0.0,BYN,tag_1
+2025-10-15,Public transport,acct_2,1.0,BYN,tag_1
+2025-10-15,Cafe,acct_3,4.0,BYN,tag_1
+2025-10-15,Cafe,acct_1,4.0,BYN,tag_1
+2025-10-14,Public transport,acct_2,1.0,BYN,tag_1
+2025-10-14,Food,acct_3,1.0,BYN,tag_1
+2025-10-14,Gifts,acct_1,27.0,BYN,tag_1
+2025-10-14,Food,acct_3,3.0,BYN,tag_1
+2025-10-14,Taxi,acct_1,9.0,BYN,tag_1
+2025-10-13,Food,acct_3,15.0,BYN,tag_1
+2025-10-13,Cafe,acct_3,9.0,BYN,tag_1
+2025-10-13,Food,acct_3,1.0,BYN,tag_1
+2025-10-13,Leisure,acct_3,35.0,BYN,tag_1
+2025-10-12,Public transport,acct_1,5.0,BYN,tag_1
+2025-10-10,Public transport,acct_2,1.0,BYN,tag_1
+2025-10-10,Food,acct_1,15.0,BYN,tag_1
+2025-10-09,Taxi,acct_1,17.0,BYN,tag_1
+2025-10-09,Cafe,acct_1,6.0,BYN,tag_1
+2025-10-09,Public transport,acct_2,4.0,BYN,tag_2
+2025-10-08,Food,acct_1,10.0,BYN,tag_1
+2025-10-08,Public transport,acct_3,1.0,BYN,tag_2
+2025-10-07,Cafe,acct_3,4.0,BYN,tag_1
+2025-10-07,Food,acct_3,2.0,BYN,tag_1
+2025-10-07,Taxi,acct_1,14.0,BYN,tag_1
+2025-10-06,Public transport,acct_2,2.0,BYN,tag_1
+2025-10-06,Gifts,acct_3,15.0,BYN,tag_1
+2025-10-06,Cafe,acct_3,3.0,BYN,tag_1
+2025-10-06,Public transport,acct_2,1.0,BYN,tag_1
+2025-10-05,Public transport,acct_2,1.0,BYN,tag_1
+2025-10-04,Public transport,acct_2,1.0,BYN,tag_1
+2025-10-04,Food,acct_3,1.0,BYN,tag_1
+2025-10-04,Loan given,acct_1,52.0,BYN,tag_1
+2025-10-04,Loan given,acct_1,86.0,BYN,tag_1
+2025-10-03,Cafe,acct_3,59.0,BYN,tag_1
+2025-10-02,Taxi,acct_3,4.0,BYN,tag_1
+2025-10-02,Public transport,acct_2,2.0,BYN,tag_1
+2025-10-02,Cafe,acct_3,1.0,BYN,tag_1
+2025-10-02,Public transport,acct_2,1.0,BYN,tag_1
+2025-10-01,Cafe,acct_3,2.0,BYN,tag_1
+2025-10-01,Cafe,acct_1,14.0,BYN,tag_1
+2025-10-01,Public transport,acct_2,1.0,BYN,tag_1
+2025-10-01,Cafe,acct_3,4.0,BYN,tag_1
+2025-10-01,Cafe,acct_3,5.0,BYN,tag_1
+2025-10-01,Cafe,acct_3,3.0,BYN,tag_1
+2025-09-30,Public transport,acct_2,1.0,BYN,tag_1
+2025-09-30,Cafe,acct_3,1.0,BYN,tag_1
+2025-09-30,University,acct_3,4.0,BYN,tag_1
+2025-09-30,Cafe,acct_3,3.0,BYN,tag_1
+2025-09-30,Public transport,acct_2,2.0,BYN,tag_1
+2025-09-30,Public transport,acct_2,2.0,BYN,tag_3
+2025-09-30,Leisure,acct_1,31.0,BYN,tag_1
+2025-09-29,Food,acct_3,4.0,BYN,tag_1
+2025-09-29,Clothes,acct_1,88.0,BYN,tag_1
+2025-09-29,Bought for myself,acct_1,1129.0,BYN,tag_1
+2025-09-29,Cafe,acct_3,4.0,BYN,tag_1
+2025-09-29,Public transport,acct_2,1.0,BYN,tag_1
+2025-09-29,Cafe,acct_3,3.0,BYN,tag_1
+2025-09-28,Food,acct_3,9.0,BYN,tag_1
+2025-09-28,Public transport,acct_2,1.0,BYN,tag_1
+2025-09-27,Public transport,acct_2,1.0,BYN,tag_1
+2025-09-27,Food,acct_3,10.0,BYN,tag_1
+2025-09-27,Food,acct_3,1.0,BYN,tag_1
+2025-09-27,Public transport,acct_2,1.0,BYN,tag_1
+2025-09-27,Taxi,acct_3,24.0,BYN,tag_1
+2025-09-27,Food,acct_1,65.0,BYN,tag_1
+2025-09-26,Taxi,acct_1,25.0,BYN,tag_1
+2025-09-26,Leisure,acct_1,232.0,BYN,tag_1
+2025-09-26,Cafe,acct_1,5.0,BYN,tag_1
+2025-09-25,Food,acct_1,81.0,BYN,tag_1
+2025-09-25,Food,acct_1,313.0,BYN,tag_1
+2025-09-25,Public transport,acct_2,1.0,BYN,tag_1
+2025-09-25,Public transport,acct_2,2.0,BYN,tag_2
+2025-09-25,Public transport,acct_2,1.0,BYN,tag_3
+2025-09-24,Public transport,acct_2,1.0,BYN,tag_1
+2025-09-24,Cafe,acct_1,16.0,BYN,tag_1
+2025-09-24,Cafe,acct_1,6.0,BYN,tag_1
+2025-09-24,Public transport,acct_2,1.0,BYN,tag_2
+2025-09-24,Food,acct_3,4.0,BYN,tag_1
+2025-09-24,Food,acct_3,11.0,BYN,tag_1
+2025-09-23,Public transport,acct_2,2.0,BYN,tag_2
+2025-09-23,Public transport,acct_2,1.0,BYN,tag_2
+2025-09-23,Public transport,acct_2,2.0,BYN,tag_1
+2025-09-22,Cafe,acct_3,8.0,BYN,tag_1
+2025-09-22,Public transport,acct_2,1.0,BYN,tag_1
+2025-09-22,Gifts,acct_3,4.0,BYN,tag_1
+2025-09-21,Public transport,acct_2,2.0,BYN,tag_1
+2025-09-21,Public transport,acct_2,1.0,BYN,tag_1
+2025-09-20,Public transport,acct_2,1.0,BYN,tag_1
+2025-09-20,Public transport,acct_2,1.0,BYN,tag_4
+2025-09-17,Health,acct_1,73.0,BYN,tag_1
+2025-09-17,University,acct_1,12.0,BYN,tag_1
+2025-09-17,Cafe,acct_3,4.0,BYN,tag_1
+2025-09-17,Public transport,acct_2,1.0,BYN,tag_2
+2025-09-16,Public transport,acct_2,1.0,BYN,tag_1
+2025-09-15,Public transport,acct_2,1.0,BYN,tag_1
+2025-09-14,Public transport,acct_2,1.0,BYN,tag_1
+2025-09-14,University,acct_1,5.0,BYN,tag_1
+2025-09-14,Taxi,acct_1,15.0,BYN,tag_1
+2025-09-14,Cafe,acct_1,9.0,BYN,tag_1
+2025-09-13,Public transport,acct_2,1.0,BYN,tag_1
+2025-09-13,Taxi,acct_1,6.0,BYN,tag_1
+2025-09-12,Public transport,acct_2,1.0,BYN,tag_2
+2025-09-11,Food,acct_1,10.0,BYN,tag_1
+2025-09-11,Public transport,acct_2,2.0,BYN,tag_2
+2025-09-11,Loan given,acct_1,457.0,BYN,tag_1
+2025-09-11,Public transport,acct_2,2.0,BYN,tag_1
+2025-09-11,Cafe,acct_1,9.0,BYN,tag_1
+2025-09-10,Food,acct_1,5.0,BYN,tag_1
+2025-09-10,Cafe,acct_1,9.0,BYN,tag_1
+2025-09-10,Public transport,acct_2,1.0,BYN,tag_1
+2025-09-09,Food,acct_1,6.0,BYN,tag_1
+2025-09-09,Public transport,acct_2,1.0,BYN,tag_2
+2025-09-08,University,acct_1,17.0,BYN,tag_1
+2025-09-08,Public transport,acct_2,2.0,BYN,tag_2
+2025-09-08,Public transport,acct_2,1.0,BYN,tag_1
+2025-09-07,Taxi,acct_1,18.0,BYN,tag_1
+2025-09-07,Public transport,acct_2,1.0,BYN,tag_1
+2025-09-06,Taxi,acct_1,20.0,BYN,tag_1
+2025-09-06,Public transport,acct_2,1.0,BYN,tag_4
+2025-09-06,Public transport,acct_2,4.0,BYN,tag_1
+2025-09-06,Food,acct_1,5.0,BYN,tag_1
+2025-09-06,Public transport,acct_2,1.0,BYN,tag_2
+2025-09-06,Public transport,acct_2,2.0,BYN,tag_2
+2025-09-06,Taxi,acct_1,4.0,BYN,tag_1
+2025-09-06,Cafe,acct_1,4.0,BYN,tag_1
+2025-09-05,Gifts,acct_1,5.0,BYN,tag_1
+2025-09-05,Public transport,acct_2,2.0,BYN,tag_2
+2025-09-05,Cafe,acct_1,4.0,BYN,tag_1
+2025-09-05,Public transport,acct_2,1.0,BYN,tag_2
+2025-09-04,Food,acct_1,15.0,BYN,tag_1
+2025-09-04,Public transport,acct_2,2.0,BYN,tag_1
+2025-09-03,Public transport,acct_1,5.0,BYN,tag_1
+2025-09-03,Cafe,acct_1,4.0,BYN,tag_1
+2025-09-03,Cafe,acct_1,5.0,BYN,tag_1
+2025-09-02,Public transport,acct_2,2.0,BYN,tag_2
+2025-09-02,Cafe,acct_1,5.0,BYN,tag_1
+2025-09-01,Public transport,acct_2,1.0,BYN,tag_1
+2025-09-01,Leisure,acct_1,21.0,BYN,tag_1
+2025-09-01,Cafe,acct_1,5.0,BYN,tag_1
+2025-08-31,Cafe,acct_1,11.0,BYN,tag_1
+2025-08-31,Cafe,acct_1,17.0,BYN,tag_1
+2025-08-31,Cafe,acct_1,55.0,BYN,tag_1
+2025-08-31,Public transport,acct_1,12.0,BYN,tag_1
+2025-08-31,Public transport,acct_1,10.0,BYN,tag_1
+2025-08-31,Leisure,acct_1,12.0,BYN,tag_1
+2025-08-31,Food,acct_1,4.0,BYN,tag_1
+2025-08-30,Cafe,acct_1,22.0,BYN,tag_1
+2025-08-30,Bought for myself,acct_1,9.0,BYN,tag_1
+2025-08-30,Public transport,acct_1,10.0,BYN,tag_1
+2025-08-29,Public transport,acct_2,1.0,BYN,tag_1
+2025-08-28,Public transport,acct_2,1.0,BYN,tag_4
+2025-08-28,Gifts,acct_1,11.0,BYN,tag_1
+2025-08-28,Leisure,acct_1,93.0,BYN,tag_1
+2025-08-28,Gifts,acct_1,32.0,BYN,tag_1
+2025-08-28,Public transport,acct_2,2.0,BYN,tag_4
+2025-08-27,Public transport,acct_2,1.0,BYN,tag_4
+2025-08-27,Cafe,acct_3,13.0,BYN,tag_1
+2025-08-27,Cafe,acct_1,6.0,BYN,tag_1
+2025-08-26,Public transport,acct_2,1.0,BYN,tag_4
+2025-08-26,Food,acct_3,1.0,BYN,tag_1
+2025-08-26,Food,acct_3,2.0,BYN,tag_1
+2025-08-26,Public transport,acct_2,1.0,BYN,tag_4
+2025-08-25,Public transport,acct_2,1.0,BYN,tag_4
+2025-08-25,Food,acct_3,3.0,BYN,tag_1
+2025-08-25,Public transport,acct_2,4.0,BYN,tag_4
+2025-08-23,Food,acct_1,4.0,BYN,tag_1
+2025-08-23,Public transport,acct_2,4.0,BYN,tag_4
+2025-08-23,Public transport,acct_2,1.0,BYN,tag_4
+2025-08-22,Food,acct_3,4.0,BYN,tag_1
+2025-08-22,Food,acct_3,6.0,BYN,tag_1
+2025-08-22,Food,acct_3,1.0,BYN,tag_1
+2025-08-22,Public transport,acct_2,1.0,BYN,tag_4
+2025-08-22,Leisure,acct_1,16.0,BYN,tag_1
+2025-08-22,Food,acct_3,1.0,BYN,tag_1
+2025-08-21,Food,acct_3,5.0,BYN,tag_1
+2025-08-20,Cafe,acct_3,8.0,BYN,tag_1
+2025-08-20,Public transport,acct_1,5.0,BYN,tag_1
+2025-08-20,Public transport,acct_2,1.0,BYN,tag_4
+2025-08-20,Taxi,acct_1,4.0,BYN,tag_1
+2025-08-19,Public transport,acct_1,5.0,BYN,tag_1
+2025-08-19,Bought for myself,acct_1,71.0,BYN,tag_1
+2025-08-18,Public transport,acct_2,1.0,BYN,tag_1
+2025-08-17,Food,acct_1,6.0,BYN,tag_1
+2025-08-17,Cafe,acct_1,20.0,BYN,tag_1
+2025-08-17,Leisure,acct_1,11.0,BYN,tag_1
+2025-08-17,Food,acct_1,5.0,BYN,tag_1
+2025-08-16,Gifts,acct_1,10.0,BYN,tag_1
+2025-08-16,Food,acct_1,4.0,BYN,tag_1
+2025-08-15,Food,acct_3,0.0,BYN,tag_1
+2025-08-15,Food,acct_1,22.0,BYN,tag_1
+2025-08-15,Public transport,acct_2,1.0,BYN,tag_4
+2025-08-15,Food,acct_1,5.0,BYN,tag_1
+2025-08-15,Public transport,acct_2,1.0,BYN,tag_1
+2025-08-15,Public transport,acct_2,1.0,BYN,tag_4
+2025-08-14,Food,acct_1,11.0,BYN,tag_1
+2025-08-13,Public transport,acct_2,1.0,BYN,tag_1
+2025-08-13,Public transport,acct_2,1.0,BYN,tag_4
+2025-08-13,Public transport,acct_2,1.0,BYN,tag_3
+2025-08-12,Public transport,acct_2,1.0,BYN,tag_3
+2025-08-12,Public transport,acct_2,1.0,BYN,tag_4
+2025-08-12,Public transport,acct_2,1.0,BYN,tag_1
+2025-08-12,Leisure,acct_1,25.0,BYN,tag_1
+2025-08-11,Food,acct_1,4.0,BYN,tag_1
+2025-08-11,Public transport,acct_1,5.0,BYN,tag_4
+2025-08-08,Food,acct_1,4.0,BYN,tag_1
+2025-08-06,Food,acct_3,2.0,BYN,tag_1
+2025-08-05,Food,acct_1,10.0,BYN,tag_1
+2025-08-05,Food,acct_3,2.0,BYN,tag_1
+2025-08-05,Loan given,acct_1,4.0,BYN,tag_1
+2025-08-04,Public transport,acct_2,3.0,BYN,tag_4
+2025-08-04,Food,acct_1,5.0,BYN,tag_1
+2025-08-04,Taxi,acct_1,5.0,BYN,tag_1
+2025-08-03,Cafe,acct_1,9.0,BYN,tag_1
+2025-08-03,Cafe,acct_1,5.0,BYN,tag_1
+2025-08-03,Cafe,acct_1,34.0,BYN,tag_1
+2025-08-02,Cafe,acct_1,18.0,BYN,tag_1
+2025-08-01,Food,acct_3,5.0,BYN,tag_1
+2025-08-01,Public transport,acct_2,1.0,BYN,tag_4
+2025-07-31,Health,acct_3,31.0,BYN,tag_1
+2025-07-31,Public transport,acct_2,1.0,BYN,tag_4
+2025-07-31,Food,acct_3,14.0,BYN,tag_1
+2025-07-31,Leisure,acct_1,10.0,BYN,tag_1
+2025-07-30,Public transport,acct_2,1.0,BYN,tag_4
+2025-07-29,Other,acct_3,0.0,BYN,tag_1
+2025-07-29,Health,acct_1,12.0,BYN,tag_1
+2025-07-23,Food,acct_1,16.0,BYN,tag_1
+2025-07-22,Public transport,acct_2,2.0,BYN,tag_4
+2025-07-22,Food,acct_3,0.0,BYN,tag_1
+2025-07-22,Food,acct_1,6.0,BYN,tag_1
+2025-07-22,Public transport,acct_2,1.0,BYN,tag_4
+2025-07-21,Food,acct_1,27.0,BYN,tag_1
+2025-07-21,Public transport,acct_1,4.0,BYN,tag_1
+2025-07-21,Public transport,acct_2,1.0,BYN,tag_4
+2025-07-21,Food,acct_3,1.0,BYN,tag_1
+2025-07-21,Food,acct_3,3.0,BYN,tag_1
+2025-07-21,Leisure,acct_3,11.0,BYN,tag_1
+2025-07-20,Taxi,acct_3,4.0,BYN,tag_1
+2025-07-20,Public transport,acct_2,2.0,BYN,tag_3
+2025-07-20,Job,acct_1,64.0,BYN,tag_1
+2025-07-20,Cafe,acct_1,8.0,BYN,tag_1
+2025-07-20,Food,acct_1,10.0,BYN,tag_1
+2025-07-20,Leisure,acct_1,11.0,BYN,tag_1
+2025-07-19,Food,acct_1,40.0,BYN,tag_1
+2025-07-19,Job,acct_3,11.0,BYN,tag_1
+2025-07-17,Public transport,acct_2,1.0,BYN,tag_4
+2025-07-17,Health,acct_1,36.0,BYN,tag_1
+2025-07-16,Fines,acct_1,24.0,BYN,tag_1
+2025-07-16,Food,acct_1,4.0,BYN,tag_1
+2025-07-16,Taxi,acct_1,21.0,BYN,tag_1
+2025-07-16,Public transport,acct_2,1.0,BYN,tag_4
+2025-07-15,Public transport,acct_2,1.0,BYN,tag_4
+2025-07-12,Gifts,acct_1,36.0,BYN,tag_1
+2025-07-12,Food,acct_1,12.0,BYN,tag_1
+2025-07-12,Food,acct_1,4.0,BYN,tag_1
+2025-07-12,Food,acct_1,5.0,BYN,tag_1
+2025-07-11,Gifts,acct_1,4.0,BYN,tag_1
+2025-07-11,Public transport,acct_2,1.0,BYN,tag_4
+2025-07-11,Cafe,acct_3,1.0,BYN,tag_1
+2025-07-11,Food,acct_1,27.0,BYN,tag_1
+2025-07-09,Public transport,acct_2,1.0,BYN,tag_4
+2025-07-09,Food,acct_1,5.0,BYN,tag_1
+2025-07-09,Cafe,acct_3,14.0,BYN,tag_1
+2025-07-09,Cafe,acct_3,4.0,BYN,tag_1
+2025-07-08,Cafe,acct_3,1.0,BYN,tag_1
+2025-07-08,Cafe,acct_3,10.0,BYN,tag_1
+2025-07-07,Job,acct_3,32.0,BYN,2th_work
+2025-07-07,Public transport,acct_2,1.0,BYN,tag_4
+2025-07-07,Taxi,acct_1,9.0,BYN,tag_1
+2025-07-07,Taxi,acct_1,17.0,BYN,tag_1
+2025-07-07,Cafe,acct_3,3.0,BYN,tag_1
+2025-07-07,Cafe,acct_1,10.0,BYN,tag_1
+2025-07-06,Food,acct_1,6.0,BYN,tag_1
+2025-07-06,Food,acct_3,1.0,BYN,tag_1
+2025-07-06,Food,acct_1,11.0,BYN,tag_1
+2025-07-06,Leisure,acct_1,28.0,BYN,tag_1
+2025-07-06,Food,acct_1,23.0,BYN,tag_1
+2025-07-06,Loan given,acct_1,17.0,BYN,tag_1
+2025-07-05,Taxi,acct_1,11.0,BYN,tag_1
+2025-07-05,Food,acct_1,5.0,BYN,tag_1
+2025-07-04,Food,acct_1,4.0,BYN,tag_1
+2025-07-04,Public transport,acct_2,1.0,BYN,tag_4
+2025-07-04,Public transport,acct_2,2.0,BYN,tag_1
+2025-07-04,Leisure,acct_1,21.0,BYN,tag_1
+2025-07-03,Cafe,acct_1,9.0,BYN,tag_1
+2025-07-03,Public transport,acct_2,1.0,BYN,tag_3
+2025-07-02,Gifts,acct_1,59.0,BYN,tag_1
+2025-07-02,Public transport,acct_1,5.0,BYN,tag_1
+2025-07-02,Public transport,acct_2,1.0,BYN,tag_4
+2025-07-02,Food,acct_1,4.0,BYN,tag_1
+2025-07-01,Food,acct_1,4.0,BYN,tag_1
+2025-06-30,Food,acct_1,4.0,BYN,tag_1
+2025-06-30,Cafe,acct_1,21.0,BYN,tag_1
+2025-06-30,Public transport,acct_2,4.0,BYN,tag_4
+2025-06-30,Food,acct_1,8.0,BYN,tag_1
+2025-06-30,Public transport,acct_2,1.0,BYN,tag_4
+2025-06-29,Food,acct_1,17.0,BYN,tag_1
+2025-06-28,Leisure,acct_3,11.0,BYN,tag_1
+2025-06-28,Cafe,acct_1,20.0,BYN,tag_1
+2025-06-28,Public transport,acct_2,1.0,BYN,tag_2
+2025-06-28,Food,acct_1,6.0,BYN,tag_1
+2025-06-27,Taxi,acct_1,18.0,BYN,tag_1
+2025-06-27,Public transport,acct_2,1.0,BYN,tag_4
+2025-06-27,Public transport,acct_2,1.0,BYN,tag_3
+2025-06-26,Cafe,acct_1,11.0,BYN,tag_1
+2025-06-26,Public transport,acct_2,4.0,BYN,tag_4
+2025-06-25,Public transport,acct_2,1.0,BYN,tag_4
+2025-06-25,Public transport,acct_1,6.0,BYN,tag_1
+2025-06-25,Food,acct_1,5.0,BYN,tag_1
+2025-06-24,Taxi,acct_1,16.0,BYN,tag_1
+2025-06-24,Cafe,acct_1,4.0,BYN,tag_1
+2025-06-24,Public transport,acct_2,2.0,BYN,tag_2
+2025-06-23,Cafe,acct_1,16.0,BYN,tag_1
+2025-06-22,Leisure,acct_1,8.0,BYN,tag_1
+2025-06-21,Public transport,acct_1,25.0,BYN,tag_1
+2025-06-20,Food,acct_3,2.0,BYN,tag_1
+2025-06-20,Public transport,acct_2,1.0,BYN,tag_4
+2025-06-20,Taxi,acct_1,21.0,BYN,tag_5
+2025-06-20,Cafe,acct_3,3.0,BYN,tag_1
+2025-06-20,Cafe,acct_1,29.0,BYN,tag_1
+2025-06-20,Public transport,acct_2,2.0,BYN,tag_2
+2025-06-19,Cafe,acct_1,15.0,BYN,tag_1
+2025-06-19,Taxi,acct_1,11.0,BYN,2th_work
+2025-06-18,Leisure,acct_1,28.0,BYN,tag_1
+2025-06-18,Public transport,acct_2,1.0,BYN,tag_4
+2025-06-17,Public transport,acct_2,1.0,BYN,tag_4
+2025-06-16,Public transport,acct_2,1.0,BYN,tag_6
+2025-06-16,Health,acct_1,5.0,BYN,tag_1
+2025-06-16,Food,acct_1,4.0,BYN,tag_1
+2025-06-16,Public transport,acct_2,4.0,BYN,tag_2
+2025-06-16,Public transport,acct_1,6.0,BYN,tag_1
+2025-06-16,Public transport,acct_2,1.0,BYN,tag_2
+2025-06-14,Taxi,acct_1,16.0,BYN,tag_1
+2025-06-13,Public transport,acct_2,1.0,BYN,tag_4
+2025-06-12,Food,acct_1,16.0,BYN,tag_1
+2025-06-11,Health,acct_1,43.0,BYN,tag_1
+2025-06-11,Food,acct_1,11.0,BYN,tag_1
+2025-06-11,Public transport,acct_2,1.0,BYN,tag_2
+2025-06-10,Taxi,acct_3,13.0,BYN,tag_1
+2025-06-10,Taxi,acct_1,10.0,BYN,tag_1
+2025-06-10,Health,acct_1,12.0,BYN,tag_1
+2025-06-10,Health,acct_1,43.0,BYN,tag_1
+2025-06-10,Public transport,acct_2,1.0,BYN,tag_4
+2025-06-09,Food,acct_1,10.0,BYN,tag_1
+2025-06-09,Taxi,acct_3,11.0,BYN,tag_1
+2025-06-09,Public transport,acct_2,1.0,BYN,tag_4
+2025-06-09,Loan given,acct_1,18.0,BYN,tag_1
+2025-06-08,Food,acct_3,19.0,BYN,tag_1
+2025-06-08,Gifts,acct_1,10.0,BYN,tag_1
+2025-06-07,Public transport,acct_2,1.0,BYN,tag_4
+2025-06-07,Food,acct_1,10.0,BYN,tag_1
+2025-06-06,Taxi,acct_1,15.0,BYN,tag_1
+2025-06-06,Food,acct_1,6.0,BYN,tag_1
+2025-06-04,Health,acct_1,27.0,BYN,tag_1
+2025-06-04,Public transport,acct_2,1.0,BYN,tag_2
+2025-06-03,Public transport,acct_2,1.0,BYN,tag_2
+2025-06-03,Public transport,acct_1,23.0,BYN,tag_1
+2025-06-03,Cafe,acct_1,5.0,BYN,tag_1
+2025-06-02,Public transport,acct_2,1.0,BYN,tag_4
+2025-06-02,Public transport,acct_1,5.0,BYN,tag_4
+2025-06-02,Food,acct_1,6.0,BYN,tag_1
+2025-06-02,Food,acct_3,1.0,BYN,tag_1
+2025-05-30,Public transport,acct_2,1.0,BYN,tag_2
+2025-05-30,Food,acct_1,11.0,BYN,tag_1
+2025-05-29,Cafe,acct_3,4.0,BYN,tag_1
+2025-05-29,Cafe,acct_3,2.0,BYN,tag_1
+2025-05-29,Public transport,acct_2,1.0,BYN,tag_3
+2025-05-29,University,acct_3,2.0,BYN,tag_1
+2025-05-28,Public transport,acct_2,2.0,BYN,tag_6
+2025-05-28,Public transport,acct_2,1.0,BYN,tag_2
+2025-05-28,Cafe,acct_3,4.0,BYN,tag_1
+2025-05-28,Public transport,acct_2,1.0,BYN,tag_3
+2025-05-27,Public transport,acct_2,1.0,BYN,tag_2
+2025-05-27,Cafe,acct_3,3.0,BYN,tag_1
+2025-05-27,Cafe,acct_3,1.0,BYN,tag_1
+2025-05-25,Cafe,acct_3,2.0,BYN,tag_1
+2025-05-25,Taxi,acct_3,18.0,BYN,tag_1
+2025-05-25,Gifts,acct_1,139.0,BYN,tag_1
+2025-05-24,Public transport,acct_2,2.0,BYN,tag_2
+2025-05-24,Cafe,acct_1,20.0,BYN,tag_1
+2025-05-24,Leisure,acct_3,42.0,BYN,tag_1
+2025-05-24,Public transport,acct_1,24.0,BYN,tag_1
+2025-05-23,Public transport,acct_2,1.0,BYN,tag_4
+2025-05-23,Public transport,acct_2,1.0,BYN,tag_2
+2025-05-23,Cafe,acct_3,1.0,BYN,tag_1
+2025-05-23,Public transport,acct_2,1.0,BYN,tag_2
+2025-05-22,Cafe,acct_3,2.0,BYN,tag_1
+2025-05-22,Public transport,acct_2,1.0,BYN,tag_2
+2025-05-21,Public transport,acct_2,1.0,BYN,tag_6
+2025-05-21,Public transport,acct_2,1.0,BYN,tag_2
+2025-05-21,Cafe,acct_3,3.0,BYN,tag_1
+2025-05-21,Cafe,acct_3,1.0,BYN,tag_1
+2025-05-20,Public transport,acct_2,1.0,BYN,tag_3
+2025-05-20,Public transport,acct_2,1.0,BYN,tag_4
+2025-05-19,Job,acct_3,3.0,BYN,2th_work
+2025-05-19,Job,acct_3,23.0,BYN,tag_1
+2025-05-18,Gifts,acct_1,9.0,BYN,tag_1
+2025-05-18,Food,acct_1,6.0,BYN,tag_1
+2025-05-16,Cafe,acct_1,6.0,BYN,tag_1
+2025-05-16,Taxi,acct_1,14.0,BYN,tag_1
+2025-05-15,Public transport,acct_2,1.0,BYN,tag_1
+2025-05-15,Public transport,acct_2,1.0,BYN,tag_4
+2025-05-15,Gifts,acct_1,4.0,BYN,tag_1
+2025-05-15,Cafe,acct_1,6.0,BYN,tag_1
+2025-05-15,Public transport,acct_2,1.0,BYN,tag_2
+2025-05-14,Public transport,acct_2,1.0,BYN,tag_2
+2025-05-14,Cafe,acct_1,5.0,BYN,tag_1
+2025-05-13,Public transport,acct_2,1.0,BYN,tag_4
+2025-05-13,Public transport,acct_2,1.0,BYN,tag_2
+2025-05-13,Cafe,acct_1,8.0,BYN,tag_1
+2025-05-12,Gifts,acct_1,42.0,BYN,tag_1
+2025-05-12,Public transport,acct_2,4.0,BYN,tag_1
+2025-05-12,Cafe,acct_1,5.0,BYN,tag_1
+2025-05-11,Taxi,acct_1,10.0,BYN,tag_1
+2025-05-09,Cafe,acct_1,11.0,BYN,tag_1
+2025-05-09,Gifts,acct_1,9.0,BYN,tag_1
+2025-05-09,Gifts,acct_1,8.0,BYN,tag_1
+2025-05-08,Public transport,acct_2,1.0,BYN,tag_2
+2025-05-07,Public transport,acct_2,1.0,BYN,tag_4
+2025-05-07,Cafe,acct_1,5.0,BYN,tag_1
+2025-05-07,Public transport,acct_2,1.0,BYN,tag_2
+2025-05-06,Public transport,acct_2,1.0,BYN,tag_3
+2025-05-06,Public transport,acct_2,1.0,BYN,tag_4
+2025-05-06,Public transport,acct_2,1.0,BYN,tag_2
+2025-05-05,Food,acct_1,4.0,BYN,tag_1
+2025-05-05,Taxi,acct_1,14.0,BYN,tag_1
+2025-05-05,Cafe,acct_1,5.0,BYN,tag_1
+2025-05-05,Public transport,acct_2,4.0,BYN,tag_2
+2025-05-04,Food,acct_3,1.0,BYN,tag_1
+2025-05-04,Cafe,acct_1,17.0,BYN,tag_1
+2025-05-03,Public transport,acct_2,1.0,BYN,tag_2
+2025-05-03,Taxi,acct_1,16.0,BYN,tag_1
+2025-05-02,Leisure,acct_1,33.0,BYN,tag_1
+2025-05-02,Public transport,acct_2,1.0,BYN,tag_2
+2025-05-02,Cafe,acct_1,4.0,BYN,tag_1
+2025-05-01,Taxi,acct_1,12.0,BYN,tag_1
+2025-05-01,Food,acct_1,11.0,BYN,tag_1
+2025-04-29,Public transport,acct_1,654.0,BYN,tag_1
+2025-04-28,Food,acct_1,5.0,BYN,tag_1
+2025-04-27,Cafe,acct_3,4.0,BYN,tag_1
+2025-04-27,Cafe,acct_3,0.0,BYN,tag_1
+2025-04-27,Cafe,acct_1,5.0,BYN,tag_1
+2025-04-27,Leisure,acct_1,5.0,BYN,tag_1
+2025-04-26,Taxi,acct_1,12.0,BYN,tag_1
+2025-04-26,Cafe,acct_1,5.0,BYN,tag_1
+2025-04-25,Food,acct_1,16.0,BYN,tag_1
+2025-04-25,Cafe,acct_3,2.0,BYN,tag_1
+2025-04-25,Health,acct_1,25.0,BYN,tag_1
+2025-04-25,Taxi,acct_1,11.0,BYN,tag_1
+2025-04-23,Public transport,acct_2,1.0,BYN,tag_6
+2025-04-23,Public transport,acct_2,1.0,BYN,tag_4
+2025-04-23,Public transport,acct_2,1.0,BYN,tag_3
+2025-04-22,Food,acct_3,2.0,BYN,tag_1
+2025-04-22,Cafe,acct_1,23.0,BYN,tag_1
+2025-04-22,Public transport,acct_2,1.0,BYN,tag_3
+2025-04-21,Public transport,acct_2,1.0,BYN,tag_6
+2025-04-21,Public transport,acct_2,1.0,BYN,tag_2
+2025-04-21,Public transport,acct_2,1.0,BYN,tag_3
+2025-04-19,Food,acct_3,2.0,BYN,tag_1
+2025-04-18,Cafe,acct_1,15.0,BYN,tag_1
+2025-04-18,Gifts,acct_3,12.0,BYN,tag_1
+2025-04-18,Public transport,acct_2,1.0,BYN,tag_3
+2025-04-17,Public transport,acct_2,1.0,BYN,tag_3
+2025-04-16,Public transport,acct_2,1.0,BYN,tag_6
+2025-04-16,Cafe,acct_3,1.0,BYN,tag_1
+2025-04-16,Public transport,acct_2,1.0,BYN,tag_2
+2025-04-15,Public transport,acct_2,1.0,BYN,tag_4
+2025-04-15,Cafe,acct_1,5.0,BYN,tag_1
+2025-04-15,Cafe,acct_1,6.0,BYN,tag_1
+2025-04-14,Public transport,acct_2,1.0,BYN,tag_2
+2025-04-14,Public transport,acct_2,1.0,BYN,tag_6
+2025-04-14,Gifts,acct_1,9.0,BYN,tag_1
+2025-04-14,Cafe,acct_3,3.0,BYN,tag_1
+2025-04-12,Public transport,acct_2,1.0,BYN,tag_2
+2025-04-11,Clothes,acct_1,161.0,BYN,tag_1
+2025-04-10,Public transport,acct_2,1.0,BYN,tag_2
+2025-04-10,Cafe,acct_1,6.0,BYN,tag_1
+2025-04-10,Taxi,acct_1,9.0,BYN,tag_1
+2025-04-10,Public transport,acct_2,1.0,BYN,tag_3
+2025-04-09,Public transport,acct_2,1.0,BYN,tag_3
+2025-04-09,Food,acct_1,11.0,BYN,tag_1
+2025-04-09,Cafe,acct_1,4.0,BYN,tag_1
+2025-04-09,Public transport,acct_2,1.0,BYN,tag_2
+2025-04-09,Cafe,acct_1,6.0,BYN,tag_1
+2025-04-08,Public transport,acct_2,1.0,BYN,tag_3
+2025-04-08,Public transport,acct_2,1.0,BYN,tag_2
+2025-04-08,Cafe,acct_1,6.0,BYN,tag_1
+2025-04-08,Taxi,acct_1,9.0,BYN,tag_1
+2025-04-07,Public transport,acct_2,1.0,BYN,tag_2
+2025-04-07,Cafe,acct_3,3.0,BYN,tag_1
+2025-04-07,Leisure,acct_3,41.0,BYN,tag_1
+2025-04-05,Taxi,acct_1,5.0,BYN,tag_1
+2025-04-05,Taxi,acct_1,13.0,BYN,tag_1
+2025-04-04,Public transport,acct_2,1.0,BYN,tag_2
+2025-04-04,Cafe,acct_3,3.0,BYN,tag_1
+2025-04-03,Food,acct_1,14.0,BYN,tag_1
+2025-04-03,Cafe,acct_3,3.0,BYN,tag_1
+2025-04-03,Public transport,acct_2,1.0,BYN,tag_2
+2025-04-02,Public transport,acct_2,1.0,BYN,tag_6
+2025-04-02,Food,acct_3,4.0,BYN,tag_1
+2025-04-02,Public transport,acct_2,1.0,BYN,tag_6
+2025-04-02,Public transport,acct_2,1.0,BYN,tag_3
+2025-04-02,Public transport,acct_2,2.0,BYN,tag_3
+2025-04-02,Taxi,acct_3,7.0,BYN,tag_1
+2025-04-02,Cafe,acct_1,6.0,BYN,tag_1
+2025-04-02,Cafe,acct_3,1.0,BYN,tag_1
+2025-04-02,Public transport,acct_2,1.0,BYN,tag_1
+2025-04-01,Public transport,acct_2,1.0,BYN,tag_3
+2025-04-01,Public transport,acct_2,1.0,BYN,tag_2
+2025-04-01,Cafe,acct_3,2.0,BYN,tag_1
+2025-04-01,Cafe,acct_3,3.0,BYN,tag_1
+2025-03-31,Public transport,acct_2,1.0,BYN,tag_2
+2025-03-31,Taxi,acct_3,15.0,BYN,tag_1
+2025-03-31,Other,acct_3,12.0,BYN,tag_1
+2025-03-31,Cafe,acct_3,3.0,BYN,tag_1
+2025-03-31,Public transport,acct_2,1.0,BYN,tag_1
+2025-03-29,Food,acct_3,0.0,BYN,tag_1
+2025-03-29,Food,acct_3,9.0,BYN,tag_1
+2025-03-28,Taxi,acct_3,3.0,BYN,tag_1
+2025-03-28,Taxi,acct_3,2.0,BYN,tag_1
+2025-03-28,Other,acct_1,36.0,BYN,tag_1
+2025-03-28,Public transport,acct_2,1.0,BYN,tag_2
+2025-03-28,Public transport,acct_2,1.0,BYN,tag_4
+2025-03-28,Cafe,acct_3,6.0,BYN,tag_1
+2025-03-27,Taxi,acct_3,16.0,BYN,tag_1
+2025-03-27,Public transport,acct_2,1.0,BYN,tag_3
+2025-03-27,Cafe,acct_3,1.0,BYN,tag_1
+2025-03-27,Public transport,acct_2,1.0,BYN,tag_2
+2025-03-26,Gifts,acct_1,58.0,BYN,tag_1
+2025-03-26,Food,acct_3,14.0,BYN,tag_1
+2025-03-26,Leisure,acct_1,42.0,BYN,tag_1
+2025-03-25,Cafe,acct_3,3.0,BYN,tag_1
+2025-03-25,Gifts,acct_1,29.0,BYN,tag_1
+2025-03-25,Public transport,acct_2,1.0,BYN,tag_2
+2025-03-25,Public transport,acct_2,1.0,BYN,tag_4
+2025-03-24,Cafe,acct_3,24.0,BYN,tag_1
+2025-03-24,Public transport,acct_3,3.0,BYN,tag_1
+2025-03-24,Public transport,acct_2,1.0,BYN,tag_2
+2025-03-24,Cafe,acct_3,4.0,BYN,tag_1
+2025-03-22,Taxi,acct_1,12.0,BYN,tag_1
+2025-03-21,Public transport,acct_2,1.0,BYN,tag_3
+2025-03-21,Public transport,acct_2,4.0,BYN,tag_2
+2025-03-21,Cafe,acct_3,0.0,BYN,tag_1
+2025-03-21,Cafe,acct_1,6.0,BYN,tag_1
+2025-03-21,Public transport,acct_2,1.0,BYN,tag_2
+2025-03-20,Public transport,acct_2,1.0,BYN,tag_2
+2025-03-20,Loan given,acct_1,12.0,BYN,tag_1
+2025-03-19,Cafe,acct_1,5.0,BYN,tag_1
+2025-03-19,Taxi,acct_1,10.0,BYN,tag_1
+2025-03-18,Public transport,acct_2,1.0,BYN,tag_3
+2025-03-18,Public transport,acct_2,1.0,BYN,tag_2
+2025-03-18,Gifts,acct_1,21.0,BYN,tag_1
+2025-03-18,Health,acct_1,6.0,BYN,tag_1
+2025-03-18,Other,acct_1,53.0,BYN,tag_1
+2025-03-17,Cafe,acct_1,6.0,BYN,tag_1
+2025-03-17,Cafe,acct_3,4.0,BYN,tag_1
+2025-03-16,Taxi,acct_1,4.0,BYN,tag_1
+2025-03-15,Other,acct_1,43.0,BYN,tag_1
+2025-03-15,Other,acct_1,33.0,BYN,tag_1
+2025-03-13,Gifts,acct_1,34.0,BYN,tag_1
+2025-03-13,Gifts,acct_1,24.0,BYN,tag_1
+2025-03-13,Public transport,acct_2,1.0,BYN,tag_2
+2025-03-12,Public transport,acct_2,1.0,BYN,tag_2
+2025-03-12,Public transport,acct_2,1.0,BYN,tag_3
+2025-03-12,Gifts,acct_1,82.0,BYN,tag_1
+2025-03-11,Gifts,acct_1,6.0,BYN,tag_1
+2025-03-11,Other,acct_3,7.0,BYN,tag_1
+2025-03-11,Other,acct_3,4.0,BYN,tag_1
+2025-03-11,Other,acct_3,36.0,BYN,tag_1
+2025-03-10,Cafe,acct_3,1.0,BYN,tag_1
+2025-03-10,Cafe,acct_3,3.0,BYN,tag_1
+2025-03-10,Public transport,acct_2,1.0,BYN,tag_6
+2025-03-09,Other,acct_3,43.0,BYN,tag_1
+2025-03-08,Gifts,acct_1,10.0,BYN,tag_1
+2025-03-07,Food,acct_1,10.0,BYN,tag_1
+2025-03-07,Food,acct_1,4.0,BYN,tag_1
+2025-03-07,Cafe,acct_1,6.0,BYN,tag_1
+2025-03-07,Taxi,acct_1,11.0,BYN,tag_1
+2025-03-06,Public transport,acct_2,1.0,BYN,tag_3
+2025-03-06,Public transport,acct_2,1.0,BYN,tag_2
+2025-03-05,Public transport,acct_1,1172.0,BYN,tag_1
+2025-03-05,Other,acct_1,1156.0,BYN,tag_1
+2025-03-05,Cafe,acct_3,2.0,BYN,tag_1
+2025-03-05,Gifts,acct_1,11.0,BYN,tag_1
+2025-03-05,Public transport,acct_2,1.0,BYN,tag_2
+2025-03-05,Public transport,acct_3,8.0,BYN,tag_1
+2025-03-04,Gifts,acct_3,0.0,BYN,tag_1
+2025-03-04,Gifts,acct_1,5.0,BYN,tag_1
+2025-03-04,Gifts,acct_1,89.0,BYN,tag_1
+2025-03-04,Public transport,acct_2,1.0,BYN,tag_3
+2025-03-04,Public transport,acct_2,1.0,BYN,tag_2
+2025-03-04,Cafe,acct_3,3.0,BYN,tag_1
+2025-03-04,Public transport,acct_2,4.0,BYN,tag_2
+2025-03-03,Public transport,acct_2,0.0,BYN,tag_4
+2025-03-03,Public transport,acct_2,1.0,BYN,tag_6
+2025-03-03,Public transport,acct_2,1.0,BYN,tag_2
+2025-03-01,Cafe,acct_1,24.0,BYN,tag_1
+2025-02-28,Food,acct_1,5.0,BYN,tag_1
+2025-02-28,Cafe,acct_1,5.0,BYN,tag_1
+2025-02-28,Public transport,acct_2,1.0,BYN,tag_2
+2025-02-27,Public transport,acct_2,1.0,BYN,tag_3
+2025-02-27,Public transport,acct_2,1.0,BYN,tag_2
+2025-02-26,Public transport,acct_2,1.0,BYN,tag_3
+2025-02-26,Public transport,acct_2,2.0,BYN,tag_4
+2025-02-26,Public transport,acct_2,1.0,BYN,tag_2
+2025-02-26,Leisure,acct_1,8.0,BYN,tag_1
+2025-02-25,Public transport,acct_2,1.0,BYN,tag_3
+2025-02-25,Cafe,acct_1,5.0,BYN,tag_1
+2025-02-25,Public transport,acct_2,1.0,BYN,tag_2
+2025-02-22,Gifts,acct_1,4.0,BYN,tag_1
+2025-02-22,Cafe,acct_1,6.0,BYN,tag_1
+2025-02-21,Public transport,acct_1,59.0,BYN,tag_1
+2025-02-21,Gifts,acct_1,18.0,BYN,tag_1
+2025-02-21,Food,acct_1,13.0,BYN,tag_1
+2025-02-19,Food,acct_1,21.0,BYN,tag_1
+2025-02-19,Public transport,acct_2,1.0,BYN,tag_2
+2025-02-19,University,acct_1,8.0,BYN,tag_1
+2025-02-18,Cafe,acct_1,71.0,BYN,tag_1
+2025-02-18,Public transport,acct_2,1.0,BYN,tag_2
+2025-02-18,University,acct_1,10.0,BYN,tag_1
+2025-02-17,Health,acct_1,19.0,BYN,tag_1
+2025-02-17,Health,acct_1,18.0,BYN,tag_1
+2025-02-17,Public transport,acct_2,1.0,BYN,tag_6
+2025-02-17,Food,acct_1,4.0,BYN,tag_1
+2025-02-17,University,acct_1,13.0,BYN,tag_1
+2025-02-15,Cafe,acct_1,6.0,BYN,tag_1
+2025-02-15,Public transport,acct_2,1.0,BYN,tag_2
+2025-02-14,Food,acct_1,5.0,BYN,tag_1
+2025-02-13,Public transport,acct_1,10.0,BYN,tag_1
+2025-02-13,Public transport,acct_1,5.0,BYN,tag_1
+2025-02-11,Health,acct_1,9.0,BYN,tag_1
+2025-02-10,Taxi,acct_1,8.0,BYN,tag_1
+2025-02-07,Public transport,acct_2,1.0,BYN,tag_3
+2025-02-07,Other,acct_1,16.0,BYN,tag_1
+2025-02-06,Cafe,acct_1,17.0,BYN,tag_1
+2025-02-06,Food,acct_1,4.0,BYN,tag_1
+2025-02-05,Other,acct_1,19.0,BYN,tag_1
+2025-02-05,Other,acct_1,48.0,BYN,tag_1
+2025-02-05,Other,acct_1,29.0,BYN,tag_1
+2025-02-04,Cafe,acct_1,4.0,BYN,tag_1
+2025-02-04,Public transport,acct_1,48.0,BYN,tag_1
+2025-02-04,Public transport,acct_2,2.0,BYN,tag_3
+2025-02-04,Taxi,acct_1,15.0,BYN,tag_1
+2025-02-03,Leisure,acct_1,4.0,BYN,tag_1
+2025-02-02,Cafe,acct_1,5.0,BYN,tag_1
+2025-01-31,Food,acct_3,1.0,BYN,tag_1
+2025-01-31,Other,acct_1,42.0,BYN,tag_1
+2025-01-31,Other,acct_1,4.0,BYN,tag_1
+2025-01-30,Health,acct_1,23.0,BYN,tag_1
+2025-01-30,Public transport,acct_1,5.0,BYN,tag_1
+2025-01-29,Food,acct_3,0.0,BYN,tag_1
+2025-01-28,Public transport,acct_2,1.0,BYN,tag_3
+2025-01-28,Public transport,acct_2,2.0,BYN,tag_4
+2025-01-27,Taxi,acct_1,12.0,BYN,tag_1
+2025-01-27,Taxi,acct_1,4.0,BYN,tag_1
+2025-01-27,Food,acct_1,31.0,BYN,tag_1
+2025-01-25,Public transport,acct_2,1.0,BYN,tag_2
+2025-01-25,Food,acct_3,0.0,BYN,tag_1
+2025-01-24,Food,acct_3,12.0,BYN,tag_1
+2025-01-24,Public transport,acct_2,4.0,BYN,tag_3
+2025-01-24,Public transport,acct_2,1.0,BYN,tag_3
+2025-01-23,Other,acct_1,55.0,BYN,tag_1
+2025-01-23,Other,acct_1,4.0,BYN,tag_1
+2025-01-23,Other,acct_3,0.0,BYN,tag_1
+2025-01-22,Food,acct_3,1.0,BYN,tag_1
+2025-01-22,Cafe,acct_1,70.0,BYN,tag_1
+2025-01-22,Public transport,acct_2,1.0,BYN,tag_4
+2025-01-21,Fines,acct_3,21.0,BYN,tag_1
+2025-01-21,Taxi,acct_3,6.0,BYN,tag_1
+2025-01-20,Public transport,acct_2,1.0,BYN,tag_6
+2025-01-20,Public transport,acct_2,2.0,BYN,tag_2
+2025-01-20,Food,acct_3,0.0,BYN,tag_1
+2025-01-18,Gifts,acct_3,8.0,BYN,tag_1
+2025-01-18,Gifts,acct_1,170.0,BYN,tag_1
+2025-01-18,Other,acct_3,61.0,BYN,tag_1
+2025-01-18,Food,acct_3,14.0,BYN,tag_1
+2025-01-17,Taxi,acct_3,9.0,BYN,tag_1
+2025-01-17,Public transport,acct_2,1.0,BYN,tag_3
+2025-01-16,Public transport,acct_2,1.0,BYN,tag_3
+2025-01-16,Taxi,acct_3,10.0,BYN,tag_1
+2025-01-15,Public transport,acct_2,1.0,BYN,tag_4
+2025-01-15,Public transport,acct_2,1.0,BYN,tag_2
+2025-01-15,Food,acct_3,2.0,BYN,tag_1
+2025-01-15,Public transport,acct_2,4.0,BYN,tag_3
+2025-01-14,Public transport,acct_2,1.0,BYN,tag_3
+2025-01-13,Food,acct_3,1.0,BYN,tag_1
+2025-01-13,Food,acct_1,13.0,BYN,tag_1
+2025-01-13,Public transport,acct_2,1.0,BYN,tag_6
+2025-01-13,Public transport,acct_2,1.0,BYN,tag_4
+2025-01-12,Other,acct_3,70.0,BYN,tag_1
+2025-01-11,Food,acct_3,6.0,BYN,tag_1
+2025-01-10,Public transport,acct_2,1.0,BYN,tag_2
+2025-01-09,Taxi,acct_1,14.0,BYN,tag_1
+2025-01-08,Taxi,acct_1,4.0,BYN,tag_1
+2025-01-07,Food,acct_1,5.0,BYN,tag_1
