@@ -1,0 +1,31 @@
+TÓM TẮT KẾT QUẢ SAU KHI CHỈNH SỬA
+
+1. CÁN CÂN THANH KHOẢN TIỀN MẶT NGẮN HẠN
+- Tổng thu nhập: 25,993.00
+- Tổng chi tiêu: 14,153.00
+- Dòng tiền ròng: 11,840.00
+- Tỷ lệ tiêu dùng: 54.45%
+
+2. BIÊN ĐỘ LỆCH RÒNG GIỮA THỰC CHI VỚI HẠN MỨC NGÂN SÁCH
+- Xanh lá: chi dưới ngân sách.
+- Đỏ: vượt ngân sách.
+
+3. DANH MỤC LŨY KẾ TIÊU TỐN TIỀN MẶT DÀI HẠN
+- Danh mục chi lớn nhất: Online Shopping
+- Tổng chi: 8,890,978.32
+- Tỷ trọng: 23.62%
+
+4. BIÊN ĐỘ CHI TIÊU THEO BIẾN ĐỊNH TÍNH ÁP LỰC VÀ NỢ
+- Ngưỡng DTI cao: >= 0.4800
+
+5. MA TRẬN TƯƠNG QUAN TUYẾN TÍNH ĐA BIẾN
+- Heatmap đã có số trong từng ô.
+
+6. MẬT ĐỘ PHÂN PHỐI ĐIỂM TÍN NHIỆM & RỦI RO DƯỚI CHUẨN
+- Điểm tín dụng TB: 671.21
+- Ngưỡng an toàn giả định: 670
+- Số người dưới ngưỡng: 1228
+- Tỷ lệ dưới ngưỡng: 43.59%
+
+7. TƯƠNG QUAN THU NHẬP VỚI MỨC ĐỘ VUNG TAY CHI TIÊU
+- Đã thêm đường hồi quy và hệ số tương quan r = 0.00
