@@ -1,0 +1,29 @@
+KẾT QUẢ TÓM TẮT 7 MỤC
+
+1. Cán cân thanh khoản:
+- Tổng thu nhập: 25,993.00
+- Tổng chi tiêu: 14,153.00
+- Dòng tiền ròng: 11,840.00
+- Tỷ lệ tiêu dùng/thu nhập: 54.45%
+
+2. Ngân sách:
+- Các danh mục có variance âm là vượt ngân sách.
+- Xem chi tiết trong file 02_do_lech_ngan_sach.csv.
+
+3. Tích lũy dài hạn:
+- Danh mục chi nhiều nhất: Online Shopping (8,890,978.32; 23.62% tổng chi).
+
+4. Nhóm nợ cao + stress cao:
+- Ngưỡng DTI cao dùng trong bài: >= phân vị 75%, tức 0.4800.
+- Xem so sánh trong 04_so_sanh_nhom_rui_ro.csv.
+
+5. Tương quan:
+- Ma trận tương quan nằm trong 05_ma_tran_tuong_quan.csv và biểu đồ heatmap.
+
+6. Điểm tín dụng:
+- Điểm tín dụng trung bình: 671.21
+- Số người dưới ngưỡng an toàn 670: 1228
+- Tỷ lệ dưới ngưỡng: 43.59%
+
+7. Thu nhập và lạm phát lối sống:
+- Xem nhóm đạt/không đạt mục tiêu tiết kiệm trong 07_thu_nhap_va_bay_lam_phat_loi_song.csv.

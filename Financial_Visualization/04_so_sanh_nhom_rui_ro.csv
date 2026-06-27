@@ -1,0 +1,3 @@
+risk_group,count,avg_dti,avg_discretionary_spending,median_discretionary_spending,avg_monthly_expense
+DTI cao + stress cao,153,0.5417647058823529,516.0023529411765,526.62,2895.944509803922
+Nhóm bình thường,2847,0.3403947368421053,499.9945943097998,495.67,3017.902065331928
