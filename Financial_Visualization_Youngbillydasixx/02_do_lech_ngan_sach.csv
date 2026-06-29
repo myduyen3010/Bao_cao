@@ -1,4 +1,4 @@
-category_norm,budget_amount,actual_spending,variance,status
+﻿category_norm,budget_amount,actual_spending,variance,status
 public transport,0.0,2505.0,-2505.0,Vượt ngân sách
 loan given,0.0,1523.0,-1523.0,Vượt ngân sách
 food,0.0,1412.0,-1412.0,Vượt ngân sách

@@ -1,4 +1,4 @@
-TÓM TẮT KẾT QUẢ SAU KHI CHỈNH SỬA
+TÓM TẮT KẾT QUẢ
 
 1. CÁN CÂN THANH KHOẢN TIỀN MẶT NGẮN HẠN
 - Tổng thu nhập: 25,993.00
@@ -16,16 +16,19 @@ TÓM TẮT KẾT QUẢ SAU KHI CHỈNH SỬA
 - Tỷ trọng: 23.62%
 
 4. BIÊN ĐỘ CHI TIÊU THEO BIẾN ĐỊNH TÍNH ÁP LỰC VÀ NỢ
-- Ngưỡng DTI cao: >= 0.4800
+- Đỏ: Nguy hiểm, DTI > 35%.
+- Xanh dương: An toàn, DTI <= 35%.
+- Trục X: Low - High - Medium theo mẫu.
 
 5. MA TRẬN TƯƠNG QUAN TUYẾN TÍNH ĐA BIẾN
 - Heatmap đã có số trong từng ô.
 
-6. MẬT ĐỘ PHÂN PHỐI ĐIỂM TÍN NHIỆM & RỦI RO DƯỚI CHUẨN
-- Điểm tín dụng TB: 671.21
-- Ngưỡng an toàn giả định: 670
-- Số người dưới ngưỡng: 1228
-- Tỷ lệ dưới ngưỡng: 43.59%
+6. MẬT ĐỘ PHÂN PHỐI ĐIỂM TÍN NHIỆM TRONG QUẦN THỂ
+- Ngưỡng tín dụng dưới chuẩn: < 600.
+- Trung bình hệ thống: 680.08.
+- Số người dưới ngưỡng: 131.
+- Tỷ lệ dưới ngưỡng: 4.37%.
 
 7. TƯƠNG QUAN THU NHẬP VỚI MỨC ĐỘ VUNG TAY CHI TIÊU
-- Đã thêm đường hồi quy và hệ số tương quan r = 0.00
+- Đã thêm đường hồi quy.
+- Hệ số tương quan r = 0.00.
